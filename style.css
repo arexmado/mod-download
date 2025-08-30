@@ -1,0 +1,7 @@
+body { font-family: Arial; background:#f0f0f0; margin:0; padding:0; }
+header { background:#333; color:white; padding:1em; text-align:center; }
+nav a { color:white; margin:0 1em; text-decoration:none; }
+.container { padding:2em; display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:1em; }
+.mod { background:white; padding:1em; border-radius:5px; text-align:center; }
+.mod img { width:100%; height:auto; border-radius:5px; }
+.mod a { display:inline-block; margin-top:0.5em; text-decoration:none; background:#333; color:white; padding:0.5em 1em; border-radius:5px; }
