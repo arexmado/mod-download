@@ -26,8 +26,9 @@
   <div class="container">
     <div class="mod">
       <img src="mod1.png" alt="모드 이미지">
-      <h2>모드 이름</h2>
-      <p>모드 설명 간단하게</p>
+      <h2>라이트미티카[Litematica]</h2>
+      <p></p>
+      <p>Litematica의 번역 파일입니다</p>
       <a href="mod1.zip" download>다운로드</a>
     </div>
     <div class="mod">
