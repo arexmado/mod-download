@@ -1,16 +1,41 @@
-# Modrinth Clone MVP
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>마인크래프트 모드 사이트</title>
+  <style>
+    body { font-family: Arial, sans-serif; background:#f0f0f0; margin:0; padding:0; }
+    header { background:#333; color:white; padding:1em; text-align:center; }
+    nav a { color:white; margin:0 1em; text-decoration:none; }
+    .container { padding:2em; }
+    .mod { background:white; padding:1em; margin-bottom:1em; border-radius:5px; }
+    .mod img { width:150px; height:auto; float:left; margin-right:1em; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>모드 다운로드 사이트</h1>
+    <nav>
+      <a href="/">홈</a>
+      <a href="/upload">업로드</a>
+      <a href="/mods">모드 목록</a>
+    </nav>
+  </header>
 
-간단한 Minecraft 모드 업로드/다운로드 사이트 클론 프로젝트
-
-## 기능
-- 관리자만 모드 업로드 가능
-- 누구나 모드 다운로드 가능
-- 모드 검색 기능
-- 다운로드 카운트 표시
-
-## 설치 방법
-
-1. GitHub에서 클론
-```bash
-git clone https://github.com/사용자명/modrinth-clone.git
-cd modrinth-clone
+  <div class="container">
+    <div class="mod">
+      <img src="mod1.png" alt="모드 이미지">
+      <h2>모드 이름</h2>
+      <p>모드 설명 간단하게</p>
+      <a href="mod1.zip" download>다운로드</a>
+    </div>
+    <div class="mod">
+      <img src="mod2.png" alt="모드 이미지">
+      <h2>다른 모드</h2>
+      <p>다른 모드 설명</p>
+      <a href="mod2.zip" download>다운로드</a>
+    </div>
+  </div>
+</body>
+</html>
