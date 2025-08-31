@@ -17,7 +17,7 @@
   <header>
     <h1>모드 다운로드 사이트</h1>
     <nav>
-      <a href="/">홈</a>
+      <a href="index.html">홈</a>
       <a href="/upload">업로드</a>
       <a href="/mods">모드 목록</a>
     </nav>
