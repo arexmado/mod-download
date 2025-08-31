@@ -29,7 +29,7 @@
       <h2>라이트미티카[Litematica]</h2>
       <p></p>
       <p>Litematica의 번역 파일입니다</p>
-      <a href="mod1.zip" download>다운로드</a>
+      <a href="mods/Litematica.zip" download>다운로드</a>
     </div>
     <div class="mod">
       <img src="mod2.png" alt="모드 이미지">
