@@ -1,5 +1,5 @@
 const mods = [
-  {name:"모드1", image:"images/mod1.png", file:"mods/mod1.zip", desc:"모드1 설명"},
+  {name:"Litematica.zip", image:"images/mod1.png", file:"mods/Litematica.zip", desc:"Litematica 번역"},
   {name:"모드2", image:"images/mod2.png", file:"mods/mod2.zip", desc:"모드2 설명"}
 ];
 
